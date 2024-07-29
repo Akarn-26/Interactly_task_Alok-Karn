@@ -33,3 +33,4 @@ I used Kaggle or Jupyter notebook for the process.
 * Extensive data cleaning techniques might be required for bigger datasets with inconsistencies or noise.
 * Alternative pre-trained models like "all-mpnet-base-v2" might perform differently depending on the specific domain and task.
 * This script demonstrates a basic implementation. APIs and front-end frameworks can be integrated for a more user-friendly interface.
+* OpenAI or huggingface API were not used because of small datasets and specific domain, however, for large real time data such API may be useful in query retrieval.
